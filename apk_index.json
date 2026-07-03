@@ -1,0 +1,246 @@
+{
+  "admin": [
+    {
+      "name": "OpenVanAdmin-0.1.0-debug-20260629-1137.apk",
+      "size": 16027567,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-0.1.0-debug-20260629-1137.apk",
+      "date": "0.1.0",
+      "time": "debug",
+      "tags": [
+        "20260629",
+        "1137"
+      ],
+      "is_latest": true
+    },
+    {
+      "name": "OpenVanAdmin-0.2.0-debug-20260629-1246.apk",
+      "size": 16076715,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-0.2.0-debug-20260629-1246.apk",
+      "date": "0.2.0",
+      "time": "debug",
+      "tags": [
+        "20260629",
+        "1246"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanAdmin-0.3.0-debug-20260629-1329.apk",
+      "size": 17148050,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-0.3.0-debug-20260629-1329.apk",
+      "date": "0.3.0",
+      "time": "debug",
+      "tags": [
+        "20260629",
+        "1329"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanAdmin-0.3.1-debug-20260629-1338.apk",
+      "size": 16175518,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-0.3.1-debug-20260629-1338.apk",
+      "date": "0.3.1",
+      "time": "debug",
+      "tags": [
+        "20260629",
+        "1338"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanAdmin-0.3.2-debug-20260629-1407.apk",
+      "size": 16175518,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-0.3.2-debug-20260629-1407.apk",
+      "date": "0.3.2",
+      "time": "debug",
+      "tags": [
+        "20260629",
+        "1407"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanAdmin-0.3.3-debug-20260629-1446.apk",
+      "size": 16175514,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-0.3.3-debug-20260629-1446.apk",
+      "date": "0.3.3",
+      "time": "debug",
+      "tags": [
+        "20260629",
+        "1446"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanAdmin-0.3.4-debug-20260629-1639.apk",
+      "size": 16175518,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-0.3.4-debug-20260629-1639.apk",
+      "date": "0.3.4",
+      "time": "debug",
+      "tags": [
+        "20260629",
+        "1639"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanAdmin-0.3.5-debug-20260629-1730-admin-fence.apk",
+      "size": 16175514,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-0.3.5-debug-20260629-1730-admin-fence.apk",
+      "date": "0.3.5",
+      "time": "debug",
+      "tags": [
+        "20260629",
+        "1730",
+        "admin",
+        "fence"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanAdmin-20260701-1450-debug.apk",
+      "size": 16175514,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/admin/OpenVanAdmin-20260701-1450-debug.apk",
+      "date": "20260701",
+      "time": "1450",
+      "tags": [],
+      "is_latest": false
+    }
+  ],
+  "driver": [
+    {
+      "name": "OpenVanDriver-20260701-1450-debug.apk",
+      "size": 16755586,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260701-1450-debug.apk",
+      "date": "20260701",
+      "time": "1450",
+      "tags": [],
+      "is_latest": true
+    },
+    {
+      "name": "OpenVanDriver-20260702-1509-debug.apk",
+      "size": 16616631,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260702-1509-debug.apk",
+      "date": "20260702",
+      "time": "1509",
+      "tags": [],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanDriver-20260702-1653-with-realphoneauth-debug.apk",
+      "size": 16618808,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260702-1653-with-realphoneauth-debug.apk",
+      "date": "20260702",
+      "time": "1653",
+      "tags": [
+        "with",
+        "realphoneauth"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanDriver-20260702-1708-realkeys-debug.apk",
+      "size": 17213338,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260702-1708-realkeys-debug.apk",
+      "date": "20260702",
+      "time": "1708",
+      "tags": [
+        "realkeys"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanDriver-20260702-1714-playintegrity-debug.apk",
+      "size": 17213338,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260702-1714-playintegrity-debug.apk",
+      "date": "20260702",
+      "time": "1714",
+      "tags": [
+        "playintegrity"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanDriver-20260702-1719-resyncreadback-debug.apk",
+      "size": 17213338,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260702-1719-resyncreadback-debug.apk",
+      "date": "20260702",
+      "time": "1719",
+      "tags": [
+        "resyncreadback"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanDriver-20260702-1754-phoneblockindependent-debug.apk",
+      "size": 17213338,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260702-1754-phoneblockindependent-debug.apk",
+      "date": "20260702",
+      "time": "1754",
+      "tags": [
+        "phoneblockindependent"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanDriver-20260702-1801-final-phoneblockindependent-debug.apk",
+      "size": 17213338,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260702-1801-final-phoneblockindependent-debug.apk",
+      "date": "20260702",
+      "time": "1801",
+      "tags": [
+        "final",
+        "phoneblockindependent"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanDriver-20260702-1850-final-privacymask-debug.apk",
+      "size": 17213338,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/driver/OpenVanDriver-20260702-1850-final-privacymask-debug.apk",
+      "date": "20260702",
+      "time": "1850",
+      "tags": [
+        "final",
+        "privacymask"
+      ],
+      "is_latest": false
+    }
+  ],
+  "renter": [
+    {
+      "name": "OpenVanRenter-20260701-1450-debug.apk",
+      "size": 16460701,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/renter/OpenVanRenter-20260701-1450-debug.apk",
+      "date": "20260701",
+      "time": "1450",
+      "tags": [],
+      "is_latest": true
+    },
+    {
+      "name": "OpenVanRenter-20260701-1611-with-appcheck-debug.apk",
+      "size": 20368036,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/renter/OpenVanRenter-20260701-1611-with-appcheck-debug.apk",
+      "date": "20260701",
+      "time": "1611",
+      "tags": [
+        "with",
+        "appcheck"
+      ],
+      "is_latest": false
+    },
+    {
+      "name": "OpenVanRenter-20260702-1841-final-phoneblockindependent-debug.apk",
+      "size": 20368095,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/renter/OpenVanRenter-20260702-1841-final-phoneblockindependent-debug.apk",
+      "date": "20260702",
+      "time": "1841",
+      "tags": [
+        "final",
+        "phoneblockindependent"
+      ],
+      "is_latest": false
+    }
+  ]
+}
