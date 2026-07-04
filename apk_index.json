@@ -210,13 +210,28 @@
   ],
   "renter": [
     {
+      "name": "OpenVanRenter-20260704-1730-fix-otp-design-tokens-debug.apk",
+      "size": 20368095,
+      "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/renter/OpenVanRenter-20260704-1730-fix-otp-design-tokens-debug.apk",
+      "date": "20260704",
+      "time": "1730",
+      "tags": [
+        "fix",
+        "otp",
+        "designtokens"
+      ],
+      "is_latest": true,
+      "sha256": "1ac11644aa8eac7a4d8943b99bf4ff9db76e53284deaae127911a82f5286f97f",
+      "notes": "Fix OTP Phone Auth (test phone +99999999 code 123456) + Design Token Phase 1+2+3 (no magic numbers)"
+    },
+    {
       "name": "OpenVanRenter-20260701-1450-debug.apk",
       "size": 16460701,
       "raw_url": "https://raw.githubusercontent.com/lamkawaigary/opensystem/main/apks/renter/OpenVanRenter-20260701-1450-debug.apk",
       "date": "20260701",
       "time": "1450",
       "tags": [],
-      "is_latest": true
+      "is_latest": false
     },
     {
       "name": "OpenVanRenter-20260701-1611-with-appcheck-debug.apk",
