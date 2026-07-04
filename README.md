@@ -59,3 +59,5 @@ To regenerate after adding new APKs:
 
 For now, manually regenerate by running the Python builder in
 `/tmp/opensystem-fix/` (one-off script, not part of this repo).
+
+<!-- 2026-07-04T14:06:26Z -->
